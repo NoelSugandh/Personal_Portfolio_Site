@@ -5,19 +5,19 @@ const works = [
     imgSrc: "../images/Tenzies.webp",
     title: "Tenzies Game",
     tags: ["Game", "Development"],
-    projectLink: "https://github.com/NoelSugandh/Tenzies/tree/master",
+    projectLink: "https://tenziiies.netlify.app/",
   },
   {
     imgSrc: "../images/meme.png",
     title: "Meme Generator App",
     tags: ["Development", "API"],
-    projectLink: "https://github.com/NoelSugandh/Meme_Generator/tree/master",
+    projectLink: "https://meme-genertor.netlify.app/",
   },
   {
     imgSrc: "../images/Recipe Finder.webp",
     title: "Recipe App",
     tags: ["Development", "API"],
-    projectLink: "https://github.com/NoelSugandh/Chef_Claude",
+    projectLink: "https://github.com/NoelSugandh/Chef_Claude/tree/master",
   },
 ];
 
