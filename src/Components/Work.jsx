@@ -4,13 +4,13 @@ const works = [
   {
     imgSrc: "../images/Tenzies.webp",
     title: "Tenzies Game",
-    tags: ["Game", "Development"],
+    tags: ["Game", "Development", "React"],
     projectLink: "https://tenziiies.netlify.app/",
   },
   {
     imgSrc: "../images/meme.png",
     title: "Meme Generator App",
-    tags: ["Development", "API"],
+    tags: ["Development", "API", "React"],
     projectLink: "https://meme-genertor.netlify.app/",
   },
   {
