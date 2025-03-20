@@ -16,7 +16,7 @@ const works = [
   {
     imgSrc: "../images/Recipe Finder.webp",
     title: "Recipe App",
-    tags: ["Development", "API"],
+    tags: ["Development", "API", "React"],
     projectLink: "https://github.com/NoelSugandh/Chef_Claude/tree/master",
   },
 ];
