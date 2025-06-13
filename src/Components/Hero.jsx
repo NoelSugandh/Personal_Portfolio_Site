@@ -1,5 +1,5 @@
 import { ButtonPrimary, ButtonOutline } from "./Button";
-import Resume from "../assets/Resume.pdf";
+import Resume from "../assets/Noel_Sugandh_M_Front-End_Developer.pdf";
 
 const Hero = () => {
   return (
